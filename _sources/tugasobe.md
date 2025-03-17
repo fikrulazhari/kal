@@ -1,4 +1,4 @@
-## Penyelesaian Sistem Persamaan Linier
+# Penyelesaian Sistem Persamaan Linier
 ### Operasi Baris Elementer
 
 ### Eliminasi Gauss
@@ -15,6 +15,7 @@ x_3+x_2&=2
 $$
 
 Penyelesaian :
+
 $$
 \begin{bmatrix}
 1&2&3&|6\\
@@ -34,6 +35,7 @@ $$
 $$
 
 - Solusi Akhir
+
 $$
 \begin{aligned}
 x_1&=2-t\\
@@ -43,6 +45,7 @@ x_3&=t
 $$
 
 - Jadi, solusi umum dari sistem persamaan adalah:
+
 $$
 [(x_1,x_2,x_3)=(2-t,2-t,t), \quad t \in \mathbb{R}]
 $$
