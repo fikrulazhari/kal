@@ -1,5 +1,5 @@
 # Penyelesaian Sistem Persamaan Linier
-### Operasi Baris Elementer
+## Operasi Baris Elementer
 
 ### Eliminasi Gauss
 
